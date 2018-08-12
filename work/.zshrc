@@ -94,6 +94,8 @@ bindkey '^[[1;9D' backward-word
 alias dev="cd ~/dev"
 alias rn="cd ~/dev/responsive-news"
 alias mm="cd ~/dev/morph-modules"
+alias s='cd ~/dev/simorgh'
+alias si='cd ~/dev/simorgh-infrastructure'
 
 export NVM_DIR="/Users/heidas03/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
